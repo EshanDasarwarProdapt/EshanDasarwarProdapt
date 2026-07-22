@@ -64,6 +64,7 @@ Cloud Platforms • Databases • Automation Tools
 
 ## 🧠 Developer Philosophy
 
+
 > Build. Break. Debug. Learn. Repeat.
 
 Great software is not just about writing code — it’s about asking better questions, solving meaningful problems, and occasionally wondering why a missing semicolon caused a three-hour investigation.
