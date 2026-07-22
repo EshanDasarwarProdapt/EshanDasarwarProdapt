@@ -1,7 +1,6 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Eshan
 
 ```bash
-$ whoami
 > Developer | AI/ML Enthusiast | Problem Solver | Professional Bug Whisperer
 ```
 
