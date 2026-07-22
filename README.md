@@ -27,9 +27,11 @@ Python • JavaScript • TypeScript • Java • SQL
 ### 🤖 AI/ML Playground
 
 ```text
+
 Machine Learning • Deep Learning • Neural Networks
 Natural Language Processing • Computer Vision
 Generative AI • LLMs • Data Science • Model Experimentation
+
 ```
 
 ### 🛠️ Development Stack
